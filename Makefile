@@ -4,7 +4,7 @@ CC=gcc
 
 PWD=`pwd`
 
-TARGET=terris
+TARGET=tetris
 
 
 ${TARGET}: main.o
